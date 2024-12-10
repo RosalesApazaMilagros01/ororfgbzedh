@@ -1,0 +1,7 @@
+{
+  "name": "gradua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
